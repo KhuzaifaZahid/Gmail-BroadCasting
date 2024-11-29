@@ -1,9 +1,9 @@
 # Gmail-BroadCasting
-**Overview:** 
+#Overview: 
 
   This project allows users to send a single email to multiple recipients at once with just one click. Whether it's for sending company-wide announcements, marketing updates, or group communications, this application simplifies the process of sending emails to a list of recipients through Gmail's SMTP server.
 
-**Features:**
+#Features:
 
 **Mass Emailing:** Send a single email to multiple recipients, such as a department or a group of users, with a single click.
 Flexible Department Selection: Users can select a specific department (e.g., Sales, Support, HR, IT), and the email will be sent to the corresponding email addresses of that department.
