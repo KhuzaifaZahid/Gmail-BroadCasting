@@ -4,12 +4,16 @@
 # Features:
 **Mass Emailing:** 
 Send a single email to multiple recipients, such as a department or a group of users, with a single click.
+
 **Flexible Department Selection:** 
 Users can select a specific department (e.g., Sales, Support, HR, IT), and the email will be sent to the corresponding email addresses of that department.
+
 **Real-Time Feedback:**
 Once the emails are sent, users will receive a popup notification confirming the result of the email-sending process (whether successful or failed for each recipient).
+
 **Simple Interface:** The application provides a clean and user-friendly interface for entering the email subject, body, and selecting the department.
-# Customizable:
+
+**Customizable:**
 You can easily update the department email list by modifying a separate Python file for each department, making the system extensible.
 # Technologies Used:
 
