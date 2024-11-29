@@ -1,7 +1,7 @@
 # Gmail-BroadCasting
-# Overview: 
+## Overview: 
   This project allows users to send a single email to multiple recipients at once with just one click. Whether it's for sending company-wide announcements, marketing updates, or group communications, this application simplifies the process of sending emails to a list of recipients through Gmail's SMTP server.
-# Features:
+## Features:
 **Mass Emailing:** 
 Send a single email to multiple recipients, such as a department or a group of users, with a single click.
 
@@ -15,7 +15,7 @@ Once the emails are sent, users will receive a popup notification confirming the
 
 **Customizable:**
 You can easily update the department email list by modifying a separate Python file for each department, making the system extensible.
-# Technologies Used:
+## Technologies Used:
 
 **Python:** The backend is powered by Flask, a lightweight web framework.
 
@@ -23,7 +23,7 @@ You can easily update the department email list by modifying a separate Python f
 
 **SMTP Protocol:** The email-sending functionality is powered by Gmail’s SMTP server to send messages to recipients.
 
-# How It Works
+## How It Works
 
 **Select Department:** Choose the department you want to send an email to. Each department has a predefined list of email addresses.
 
@@ -33,7 +33,7 @@ You can easily update the department email list by modifying a separate Python f
 
 **Feedback:** A popup message will inform you about the success or failure of sending the email to each recipient.
 
-# How to Use
+## How to Use
 
 Clone the repository to your local machine.
 
@@ -49,7 +49,7 @@ Fill in the subject, body, and select a department.
 
 Click "Send Email" to broadcast the message.
 
-# Customization
+## Customization
 
 **Email List:** You can update the email lists for each department by modifying the respective Python files (e.g., sales.py, support.py, etc.).
 
