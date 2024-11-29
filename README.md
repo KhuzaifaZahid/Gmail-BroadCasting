@@ -37,9 +37,9 @@ You can easily update the department email list by modifying a separate Python f
 
 Clone the repository to your local machine.
 
-Install the required dependencies using pip install -r requirements.txt.
+Install the required dependencies using **pip install -r smtplib**
 
-Set up your Gmail account and enable Less Secure Apps or use an App Password for better security.
+Set up your Gmail account and enable an App Password for better security.
 
 Run the Flask server:python app.py.
 
